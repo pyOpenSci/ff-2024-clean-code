@@ -5,4 +5,5 @@ dependencies:
   - python=3.11.*
   - pandas
   - jupyterlab-myst 
+  - jupyterlab_code_formatter
   
