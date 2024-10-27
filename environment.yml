@@ -6,4 +6,6 @@ dependencies:
   - pandas
   - jupyterlab-myst 
   - jupyterlab_code_formatter
+  - black
+  - isort
   
