@@ -9,4 +9,5 @@ dependencies:
   - black
   - isort
   - rise
+  - jupyterlab-rise
   
