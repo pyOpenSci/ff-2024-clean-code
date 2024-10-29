@@ -8,4 +8,5 @@ dependencies:
   - jupyterlab_code_formatter
   - black
   - isort
+  - rise
   
